@@ -3,6 +3,7 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/MagicGithub.iml" filepath="$PROJECT_DIR$/.idea/modules/MagicGithub.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/MagicGithub.app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/MagicGithub.app.iml" />
     </modules>
   </component>
 </project>
